@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<head>
+<meta name="dtb:uid" content="9781641716086"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="936"/>
+<meta name="dtb:maxPageNumber" content="936"/>
+</head>
+<docTitle>
+<text>Rick Steves Scandinavia</text>
+</docTitle>
+<docAuthor>
+<text>Rick Steves</text>
+</docAuthor>
+<navMap>
+<navPoint id="i1" playOrder="1">
+<navLabel>
+<text>Cover Page</text>
+</navLabel>
+<content src="cover.xhtml"/>
+</navPoint>
+<navPoint id="i2" playOrder="2">
+<navLabel>
+<text>Title Page</text>
+</navLabel>
+<content src="title.xhtml"/>
+</navPoint>
+<navPoint id="i3" playOrder="3">
+<navLabel>
+<text>Contents</text>
+</navLabel>
+<content src="toc.xhtml"/>
+</navPoint>
+<navPoint id="i4" playOrder="4">
+<navLabel>
+<text>Scandinavia</text>
+</navLabel>
+<content src="ch00.xhtml"/>
+</navPoint>
+<navPoint id="i5" playOrder="5">
+<navLabel>
+<text>DENMARK</text>
+</navLabel>
+<content src="part01.xhtml"/>
+<navPoint id="i6" playOrder="6">
+<navLabel>
+<text>Copenhagen</text>
+</navLabel>
+<content src="ch02.xhtml"/>
+</navPoint>
+<navPoint id="i7" playOrder="7">
+<navLabel>
+<text>Near Copenhagen</text>
+</navLabel>
+<content src="ch03.xhtml"/>
+</navPoint>
+<navPoint id="i8" playOrder="8">
+<navLabel>
+<text>Central Denmark</text>
+</navLabel>
+<content src="ch04.xhtml"/>
+</navPoint>
+<navPoint id="i9" playOrder="9">
+<navLabel>
+<text>Jutland</text>
+</navLabel>
+<content src="ch05.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="i10" playOrder="10">
+<navLabel>
+<text>NORWAY</text>
+</navLabel>
+<content src="part02.xhtml"/>
+<navPoint id="i11" playOrder="11">
+<navLabel>
+<text>Oslo</text>
+</navLabel>
+<content src="ch07.xhtml"/>
+</navPoint>
+<navPoint id="i12" playOrder="12">
+<navLabel>
+<text>Bergen</text>
+</navLabel>
+<content src="ch08.xhtml"/>
+</navPoint>
+<navPoint id="i13" playOrder="13">
+<navLabel>
+<text>Norway in a Nutshell</text>
+</navLabel>
+<content src="ch09.xhtml"/>
+</navPoint>
+<navPoint id="i14" playOrder="14">
+<navLabel>
+<text>More on the Sognefjord</text>
+</navLabel>
+<content src="ch10.xhtml"/>
+</navPoint>
+<navPoint id="i15" playOrder="15">
+<navLabel>
+<text>Gudbrandsdal Valley &#38; Jotunheimen Mountains</text>
+</navLabel>
+<content src="ch11.xhtml"/>
+</navPoint>
+<navPoint id="i16" playOrder="16">
+<navLabel>
+<text>&#197;lesund and the Geirangerfjord</text>
+</navLabel>
+<content src="ch12.xhtml"/>
+</navPoint>
+<navPoint id="i17" playOrder="17">
+<navLabel>
+<text>Stavanger</text>
+</navLabel>
+<content src="ch13.xhtml"/>
+</navPoint>
+<navPoint id="i18" playOrder="18">
+<navLabel>
+<text>The Setesdal Valley</text>
+</navLabel>
+<content src="ch14.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="i19" playOrder="19">
+<navLabel>
+<text>SWEDEN</text>
+</navLabel>
+<content src="part03.xhtml"/>
+<navPoint id="i20" playOrder="20">
+<navLabel>
+<text>Stockholm</text>
+</navLabel>
+<content src="ch16.xhtml"/>
+</navPoint>
+<navPoint id="i21" playOrder="21">
+<navLabel>
+<text>Near Stockholm</text>
+</navLabel>
+<content src="ch17.xhtml"/>
+</navPoint>
+<navPoint id="i22" playOrder="22">
+<navLabel>
+<text>Stockholm&#8217;s Archipelago</text>
+</navLabel>
+<content src="ch18.xhtml"/>
+</navPoint>
+<navPoint id="i23" playOrder="23">
+<navLabel>
+<text>Southeast Sweden</text>
+</navLabel>
+<content src="ch19.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="i24" playOrder="24">
+<navLabel>
+<text>FINLAND</text>
+</navLabel>
+<content src="part04.xhtml"/>
+<navPoint id="i25" playOrder="25">
+<navLabel>
+<text>Helsinki</text>
+</navLabel>
+<content src="ch21.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="i26" playOrder="26">
+<navLabel>
+<text>ESTONIA</text>
+</navLabel>
+<content src="part05.xhtml"/>
+<navPoint id="i27" playOrder="27">
+<navLabel>
+<text>Tallinn</text>
+</navLabel>
+<content src="ch23.xhtml"/>
+</navPoint>
+</navPoint>
+<navPoint id="i28" playOrder="28">
+<navLabel>
+<text>Scandinavia: Past &#38; Present</text>
+</navLabel>
+<content src="ch24.xhtml"/>
+</navPoint>
+<navPoint id="i29" playOrder="29">
+<navLabel>
+<text>Practicalities</text>
+</navLabel>
+<content src="ch25.xhtml"/>
+</navPoint>
+<navPoint id="i30" playOrder="30">
+<navLabel>
+<text>Appendix</text>
+</navLabel>
+<content src="app01.xhtml"/>
+</navPoint>
+<navPoint id="i31" playOrder="31">
+<navLabel>
+<text>Index</text>
+</navLabel>
+<content src="index.xhtml"/>
+</navPoint>
+<navPoint id="i32" playOrder="32">
+<navLabel>
+<text>Map Index</text>
+</navLabel>
+<content src="map-index.xhtml"/>
+</navPoint>
+<navPoint id="i33" playOrder="33">
+<navLabel>
+<text>Credits</text>
+</navLabel>
+<content src="credits.xhtml"/>
+</navPoint>
+<navPoint id="i34" playOrder="34">
+<navLabel>
+<text>Copyright</text>
+</navLabel>
+<content src="copy.xhtml"/>
+</navPoint>
+</navMap>
+</ncx>
